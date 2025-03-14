@@ -1,0 +1,2 @@
+C:\Users\Devoloper\Desktop\.Net\WorldTimeCli\WorldTimeCli\bin\Release\net8.0\win-x64\publish\WorldTimeCli.pdb
+C:\Users\Devoloper\Desktop\.Net\WorldTimeCli\WorldTimeCli\bin\Release\net8.0\win-x64\publish\WorldTimeCli.exe
